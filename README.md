@@ -61,3 +61,31 @@ I am very fond of these places. So, I would like to suggest the others to visit 
 > If you can't explain it simply, you don't understand it well enough.<br>      - *Albert Einstein*
 
 > No great discovery was ever made without a bold guess. <br>     - *Issac Newton*
+
+
+<!-- Horizontal line -->
+----
+
+<!-- Code Section -->
+## Code Section
+The relevant question found on stackoverflow is mentioned below.
+> Can I set subject/content of email using mailto:?
+>> Quick-link to the article: https://stackoverflow.com/questions/4782068/can-i-set-subject-content-of-email-using-mailto
+
+<!-- Code Snippet -->
+``` html
+<!-- Basic Mailto in href -->
+<a href="mailto:someone@yoursite.com">Email Us</a>
+  
+<!-- Adding subject to mailto in href -->
+<a href="mailto:someone@yoursite.com?subject=Mail from Our Site">Email Us</a>
+
+<!-- Adding CC and BCC to mailto in href -->
+<a href="mailto:someone@yoursite.com?cc=someoneelse@theirsite.com, another@thatsite.com, me@mysite.com&bcc=lastperson@theirsite.com&subject=Big%20News">Email Us</a>
+
+<!-- Adding body of email to mailto in href -->
+<a href="mailto:someone@yoursite.com?cc=someoneelse@theirsite.com, another@thatsite.com, me@mysite.com&bcc=lastperson@theirsite.com&subject=Big%20News&body=Body-goes-here">Email Us</a>
+```
+
+<!-- Link of snippet Source -->
+[Code Snippet Source](https://css-tricks.com/snippets/html/mailto-links/)
