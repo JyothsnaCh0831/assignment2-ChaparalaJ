@@ -36,3 +36,18 @@ Other places to visit near museum:
 
 <!-- Link to AboutMe.md -->
 [Jyothsna](AboutMe.md)
+
+<!-- Horizontal line -->
+----
+
+<!-- Tables -->
+## Places I Recommend
+I am very fond of these places. So, I would like to suggest the others to visit them during holidays.
+<br>
+| City | Location in City | Time Spend |
+|--------|--------------------|--------------|
+| Kerala | Boat Houses| One day |
+| Mandavalli | Reserve Forest | Two days |
+| Gokarna | Historic Temple | One day |
+| Meredumilli | Waterfalls | Two days |
+| Araku | Borra Caves | Two days |
