@@ -51,3 +51,13 @@ I am very fond of these places. So, I would like to suggest the others to visit 
 | Gokarna | Historic Temple | One day |
 | Meredumilli | Waterfalls | Two days |
 | Araku | Borra Caves | Two days |
+
+
+<!-- Horizontal line -->
+----
+
+<!-- Quotes section -->
+## Quotes Section
+> If you can't explain it simply, you don't understand it well enough.<br>      - *Albert Einstein*
+
+> No great discovery was ever made without a bold guess. <br>     - *Issac Newton*
